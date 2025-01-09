@@ -1,0 +1,91 @@
+
+		body {
+		background-color: #E4E0E1;
+		margin: 0;
+		padding: 0;
+	}
+	.container {
+		display: flex;
+		width: 40%;
+		background-color: #FAF6E3;
+		border: 1px; solid;
+		box-sizing: border-boxt;
+		overflow: hidden;
+	}
+	.navbox {
+	background-color: #FAF6E3;
+	text-align: center;
+	padding: 2%;
+	margin: 1%;
+	border: 1px #E4E0E1;
+	height: 30px;
+	overflow: hidden;
+	justify-content: center;
+	}
+
+	a {
+text-decoration: none;
+padding: 1% 2%;
+margin: 2%;
+color: black;
+background-color: #E4E0E1;
+transition: all.8s ease;
+
+
+	}
+	a:hover {
+		font-size: 1.2em;
+		background-color: 
+	}
+	a:active {
+		background-color: #FAF6E3;
+		color: #E4E0E1;
+	}
+	.boxtop {
+		background-color: #FAF6E3;
+		width: 200px;
+		text-align: center;
+		float: center;
+		box-align: center;
+
+	}
+	
+	.box1 {
+		float: right;
+		width: 46%;
+		margin: 2%;
+		padding: 1%;
+		background-color:#FAF6E3 ;
+		border: 2% #E4E0E1;
+		box-sizing: border-box;
+		text-align: center;
+		
+	}
+	.boxtext {
+		float: center;
+		margin: 2%;
+		padding: 1%;
+		background-color: #FAF6E3;
+		text-align: center;
+		width: 95%;
+		border: 2px;
+		box-align: center;
+		margin-top: 400px;
+		height: 110px;
+	}
+	
+	.foot {
+		clear: both;
+		border: 2% #E4E0E1;
+		text-align: center;
+		padding: 2%;
+		position: sticky;
+		bottom: 0;
+		background-color: #FAF6E3;
+
+
+	}
+	.spacing {
+		word-spacing: 50px;
+	}
+	
